@@ -33,4 +33,12 @@ Academic Advisor: Professor Truong Nguyen <br>
   </tbody>
 </table>
 
+<h2>Instruction</h2>
+<strong>Please set up your environment first</strong>
+1. compile: <code>gcc -I deps/kiss_fft130 hrtf.c deps/kiss_fft130/kiss_fft.c -lmingw32 -lSDL2main  -llibSDL2</code> <br>
+2. run: <code>./a.exe</code> 
+
+<br>
+<br>
+
 Credit to Ryan Huffman's hrtf-spatial-audio project, which this project was based upon. 
