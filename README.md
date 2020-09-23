@@ -1,4 +1,4 @@
-# SRIP_Hrtf_Spatial_Audio_Project 
+# SRIP_HRTF_Spatial_Audio_Project 
 <h2>Background</h2>
 
 This program is part of Summer Research Internship Program by Eletrical Computing Engineering Department at UC-San Diego.
