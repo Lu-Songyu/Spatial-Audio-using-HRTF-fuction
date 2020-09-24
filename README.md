@@ -34,7 +34,7 @@ Academic Advisor: Professor Truong Nguyen <br>
 </table>
 
 <h2>Instruction</h2>
-<strong>Please set up your environment first</strong>
+<strong>Please set up your environment first</strong> <br>
 1. compile: <code>gcc -I deps/kiss_fft130 hrtf.c deps/kiss_fft130/kiss_fft.c -lmingw32 -lSDL2main  -llibSDL2</code> <br>
 2. run: <code>./a.exe</code> 
 
