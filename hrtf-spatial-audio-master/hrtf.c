@@ -1,8 +1,5 @@
 // HRTF Spatialized Audio
-//
 // See README.md for more information
-//
-// Written by Ryan Huffman <ryanhuffman@gmail.com>
 
 
 #include "SDL2/include/SDL.h"
